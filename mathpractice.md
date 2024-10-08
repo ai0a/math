@@ -78,3 +78,22 @@ f(x) = \begin{cases}
 \frac{1}{x} & \text{if } x \neq 0
 \end{cases}
 $$
+
+# Cool math cover page
+
+$$
+\begin{align}
+-1(-1+-1) = 2\\
+2+-1^2=3
+\end{align}
+$$
+
+Clearly, all numbers are simply many $-1$'s. There is no other number, everything is $-1$ in some form. Since $-1^2=1$, you can get to any number but adding it to itself. It's here!
+
+For example:
+
+$$
+014 = (-1^(-1(-1+-1))+-1^(-1(-1+-1)))^{(-1^(-1(-1+-1))+-1^(-1(-1+-1)))^{-1^(-1(-1+-1))+-1^(-1(-1+-1))}}+-1+-1
+$$
+
+Tremendous!
