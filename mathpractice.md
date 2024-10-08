@@ -29,3 +29,33 @@ $$(a=b)\approx(|a-b|<\varepsilon)$$
 but whta if $\varepsilon$ is 1? More likely than you might think.
 
 $\epsilon$ vs. $\varepsilon$
+
+# Matrices
+$$
+\begin{bmatrix}
+1 & 2 \\
+hi & 2 \\
+0 & 2 \\
+2 & 2 \\
+\end{bmatrix}
+$$
+
+that's a lotta $2$'s!
+
+$-1 > +2$
+
+$$
+\begin{matrix}
+1 & 1 & 1 \\
+1 & 1 & 1 \\
+\end{matrix}
+$$
+
+$$
+h = \begin{pmatrix}
+1 \\
+2 \\
+\end{pmatrix}
+$$
+
+However, $H=(\frac{1}{2})$, don't get confused!
