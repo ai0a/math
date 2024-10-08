@@ -17,3 +17,15 @@ inline: $\sum_{n=1}^{10} \frac{1}{n}$
 not inline:
 
 $$\sum_{n=1}^{10} \frac{1}{n}$$
+
+# Greek letters
+
+What the $\Sigma$?!?
+
+Oh, $\Sigma \approx u$ <3
+
+$$(a=b)\approx(|a-b|<\varepsilon)$$
+
+but whta if $\varepsilon$ is 1? More likely than you might think.
+
+$\epsilon$ vs. $\varepsilon$
