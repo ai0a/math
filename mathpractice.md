@@ -59,3 +59,22 @@ h = \begin{pmatrix}
 $$
 
 However, $H=(\frac{1}{2})$, don't get confused!
+
+# Equation systems etc.
+
+$$
+\begin{align}
+1 * 2 &= 2 & 7\\
+20/4722 &=??? & 7\\
+12 =& 12 & 7
+\end{align}
+$$
+
+piecewise function:
+
+$$
+f(x) = \begin{cases}
+7 & \text{if } x = 0\\
+\frac{1}{x} & \text{if } x \neq 0
+\end{cases}
+$$
